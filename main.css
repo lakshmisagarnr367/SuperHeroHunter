@@ -425,6 +425,12 @@ img{
     .app-header-search{
         margin-top: 2.8rem;
     }
+     .app-header-search .search-btn{
+        padding-left: 2rem;
+    }
+    .app-body-tabs-body{
+        margin-right: 3rem;
+    }
 }
 /* show-tab */
 .show-tab{
