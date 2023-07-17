@@ -404,6 +404,9 @@ img{
             -ms-flex-direction: column;
                 flex-direction: column;
     }
+     .app-header-search{
+        margin-top: 1.8rem;
+    }
     .app-header-search{
         display: -webkit-box;
         display: -ms-flexbox;
