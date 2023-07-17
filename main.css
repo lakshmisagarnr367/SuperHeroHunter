@@ -403,10 +403,7 @@ img{
         -webkit-box-direction: normal;
             -ms-flex-direction: column;
                 flex-direction: column;
-    }
-     .app-header-search{
-        margin-top: 1.8rem;
-    }
+  
     .app-header-search{
         display: -webkit-box;
         display: -ms-flexbox;
@@ -423,7 +420,12 @@ img{
         margin-right: 3rem;
     }
 }
-
+}
+@media screen and (max-width: 380px){
+    .app-header-search{
+        margin-top: 1.8rem;
+    }
+}
 /* show-tab */
 .show-tab{
     display: block;
