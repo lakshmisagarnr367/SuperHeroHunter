@@ -22,7 +22,7 @@ Follow these steps to deploy the application on your local machine:
 
 - Clone the repository to your local machine:
 ```bash
-  git clone https://github.com/shubhamdarwante2301/cn-superhero-hunter.git
+  https://github.com/lakshmisagarnr367/SuperHeroHunter
 ```
 - Obtain an API key from the Marvel Developer Portal and add it to the appropriate location in the code.
 
